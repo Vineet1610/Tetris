@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Aug 01 17:46:40 2019
+Quartus Prime Version : 16.0.0 Build 211 04/27/2016 SJ Lite Edition
+Revision Name : tetris
+Top-level Entity Name : tetris
+Family : Cyclone IV E
+Total logic elements : 8,103
+    Total combinational functions : 8,081
+    Dedicated logic registers : 479
+Total registers : 479
+Total pins : 78
+Total virtual pins : 0
+Total memory bits : 57,600
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1
